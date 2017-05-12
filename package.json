@@ -1,0 +1,59 @@
+{
+  "name": "ng-echarts",
+  "version": "3.0.1",
+  "author": {
+    "name": "liekkas.zeng",
+    "url": "https://github.com/liekkas"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liekkas/ng-echarts.git"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "ng",
+    "echarts",
+    "chart"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liekkas/re-echarts/issues"
+  },
+  "homepage": "https://github.com/liekkas/re-echarts",
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.10",
+    "gulp-concat": "^2.4.3",
+    "gulp-jshint": "^1.9.0",
+    "gulp-uglify": "^1.0.2"
+  },
+  "gitHead": "dc5a48993187ca5d66050e5c9ef520488579cb54",
+  "description": "angularjs版echarts 支持最新ECharts3.x",
+  "_id": "ng-echarts@3.0.1",
+  "scripts": {},
+  "_shasum": "721a6d8c4f0f59dc65ab3637800f14d16600b20b",
+  "_from": "ng-echarts@latest",
+  "_npmVersion": "3.7.3",
+  "_nodeVersion": "4.3.1",
+  "_npmUser": {
+    "name": "liekkas_zeng",
+    "email": "zjq0717@163.com"
+  },
+  "dist": {
+    "shasum": "721a6d8c4f0f59dc65ab3637800f14d16600b20b",
+    "tarball": "https://registry.npmjs.org/ng-echarts/-/ng-echarts-3.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "liekkas_zeng",
+      "email": "zjq0717@163.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/ng-echarts-3.0.1.tgz_1459824240071_0.3742177947424352"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/ng-echarts/-/ng-echarts-3.0.1.tgz"
+}
